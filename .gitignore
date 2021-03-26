@@ -2,3 +2,5 @@
 dist/
 *.lock 
 *.pyc
+imageworker.egg-info/
+*.png

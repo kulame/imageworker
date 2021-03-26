@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "imageworker"
-version = "0.1.6"
+version = "0.1.13"
 readme = "README.md"
 description = "Lightweight image library"
 authors = ["kula <kula@live.com>"]
@@ -12,6 +12,8 @@ Pillow = "^8.1.2"
 numpy = "^1.15.4"
 keras_preprocessing = "^1.1.2"
 requests = "^2.25.1"
+httpx = "^0.17.1"
+opencv-python = "^4.5.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
